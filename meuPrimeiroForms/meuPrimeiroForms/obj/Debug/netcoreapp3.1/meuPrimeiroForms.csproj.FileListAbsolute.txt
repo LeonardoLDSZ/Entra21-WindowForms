@@ -1,0 +1,16 @@
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\meuPrimeiroForms\meuPrimeiroForms\bin\Debug\netcoreapp3.1\meuPrimeiroForms.exe
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\meuPrimeiroForms\meuPrimeiroForms\bin\Debug\netcoreapp3.1\meuPrimeiroForms.deps.json
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\meuPrimeiroForms\meuPrimeiroForms\bin\Debug\netcoreapp3.1\meuPrimeiroForms.runtimeconfig.json
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\meuPrimeiroForms\meuPrimeiroForms\bin\Debug\netcoreapp3.1\meuPrimeiroForms.runtimeconfig.dev.json
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\meuPrimeiroForms\meuPrimeiroForms\bin\Debug\netcoreapp3.1\meuPrimeiroForms.dll
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\meuPrimeiroForms\meuPrimeiroForms\bin\Debug\netcoreapp3.1\meuPrimeiroForms.pdb
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\meuPrimeiroForms\meuPrimeiroForms\obj\Debug\netcoreapp3.1\meuPrimeiroForms.csprojAssemblyReference.cache
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\meuPrimeiroForms\meuPrimeiroForms\obj\Debug\netcoreapp3.1\meuPrimeiroForms.Exercicio2.resources
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\meuPrimeiroForms\meuPrimeiroForms\obj\Debug\netcoreapp3.1\meuPrimeiroForms.Form1.resources
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\meuPrimeiroForms\meuPrimeiroForms\obj\Debug\netcoreapp3.1\meuPrimeiroForms.csproj.GenerateResource.cache
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\meuPrimeiroForms\meuPrimeiroForms\obj\Debug\netcoreapp3.1\meuPrimeiroForms.AssemblyInfoInputs.cache
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\meuPrimeiroForms\meuPrimeiroForms\obj\Debug\netcoreapp3.1\meuPrimeiroForms.AssemblyInfo.cs
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\meuPrimeiroForms\meuPrimeiroForms\obj\Debug\netcoreapp3.1\meuPrimeiroForms.csproj.CoreCompileInputs.cache
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\meuPrimeiroForms\meuPrimeiroForms\obj\Debug\netcoreapp3.1\meuPrimeiroForms.dll
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\meuPrimeiroForms\meuPrimeiroForms\obj\Debug\netcoreapp3.1\meuPrimeiroForms.pdb
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\meuPrimeiroForms\meuPrimeiroForms\obj\Debug\netcoreapp3.1\meuPrimeiroForms.genruntimeconfig.cache
