@@ -52,8 +52,8 @@ namespace formsEx01lista11
 
         private void btnCalcular_Click(object sender, EventArgs e)
         {
-            qtdMedia = qtdMin + qtdMax / 2;
-            MessageBox.Show($"{qtdMedia}");
+            qtdMedia = (qtdMin + qtdMax) / 2;
+            MessageBox.Show($"O estoque médio é de: {qtdMedia}");
 
             
         }

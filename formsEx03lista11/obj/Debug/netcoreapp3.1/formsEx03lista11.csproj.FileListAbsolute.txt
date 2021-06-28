@@ -1,0 +1,15 @@
+C:\Users\LEONARDO\Source\Repos\Entra21-WindowsForms\formsEx03lista11\bin\Debug\netcoreapp3.1\formsEx03lista11.exe
+C:\Users\LEONARDO\Source\Repos\Entra21-WindowsForms\formsEx03lista11\bin\Debug\netcoreapp3.1\formsEx03lista11.deps.json
+C:\Users\LEONARDO\Source\Repos\Entra21-WindowsForms\formsEx03lista11\bin\Debug\netcoreapp3.1\formsEx03lista11.runtimeconfig.json
+C:\Users\LEONARDO\Source\Repos\Entra21-WindowsForms\formsEx03lista11\bin\Debug\netcoreapp3.1\formsEx03lista11.runtimeconfig.dev.json
+C:\Users\LEONARDO\Source\Repos\Entra21-WindowsForms\formsEx03lista11\bin\Debug\netcoreapp3.1\formsEx03lista11.dll
+C:\Users\LEONARDO\Source\Repos\Entra21-WindowsForms\formsEx03lista11\bin\Debug\netcoreapp3.1\formsEx03lista11.pdb
+C:\Users\LEONARDO\Source\Repos\Entra21-WindowsForms\formsEx03lista11\obj\Debug\netcoreapp3.1\formsEx03lista11.csprojAssemblyReference.cache
+C:\Users\LEONARDO\Source\Repos\Entra21-WindowsForms\formsEx03lista11\obj\Debug\netcoreapp3.1\formsEx03lista11.Form1.resources
+C:\Users\LEONARDO\Source\Repos\Entra21-WindowsForms\formsEx03lista11\obj\Debug\netcoreapp3.1\formsEx03lista11.csproj.GenerateResource.cache
+C:\Users\LEONARDO\Source\Repos\Entra21-WindowsForms\formsEx03lista11\obj\Debug\netcoreapp3.1\formsEx03lista11.AssemblyInfoInputs.cache
+C:\Users\LEONARDO\Source\Repos\Entra21-WindowsForms\formsEx03lista11\obj\Debug\netcoreapp3.1\formsEx03lista11.AssemblyInfo.cs
+C:\Users\LEONARDO\Source\Repos\Entra21-WindowsForms\formsEx03lista11\obj\Debug\netcoreapp3.1\formsEx03lista11.csproj.CoreCompileInputs.cache
+C:\Users\LEONARDO\Source\Repos\Entra21-WindowsForms\formsEx03lista11\obj\Debug\netcoreapp3.1\formsEx03lista11.dll
+C:\Users\LEONARDO\Source\Repos\Entra21-WindowsForms\formsEx03lista11\obj\Debug\netcoreapp3.1\formsEx03lista11.pdb
+C:\Users\LEONARDO\Source\Repos\Entra21-WindowsForms\formsEx03lista11\obj\Debug\netcoreapp3.1\formsEx03lista11.genruntimeconfig.cache
