@@ -1,0 +1,15 @@
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\firstCrud\firstCrud\bin\Debug\netcoreapp3.1\firstCrud.exe
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\firstCrud\firstCrud\bin\Debug\netcoreapp3.1\firstCrud.deps.json
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\firstCrud\firstCrud\bin\Debug\netcoreapp3.1\firstCrud.runtimeconfig.json
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\firstCrud\firstCrud\bin\Debug\netcoreapp3.1\firstCrud.runtimeconfig.dev.json
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\firstCrud\firstCrud\bin\Debug\netcoreapp3.1\firstCrud.dll
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\firstCrud\firstCrud\bin\Debug\netcoreapp3.1\firstCrud.pdb
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\firstCrud\firstCrud\obj\Debug\netcoreapp3.1\firstCrud.csprojAssemblyReference.cache
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\firstCrud\firstCrud\obj\Debug\netcoreapp3.1\firstCrud.Form1.resources
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\firstCrud\firstCrud\obj\Debug\netcoreapp3.1\firstCrud.csproj.GenerateResource.cache
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\firstCrud\firstCrud\obj\Debug\netcoreapp3.1\firstCrud.AssemblyInfoInputs.cache
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\firstCrud\firstCrud\obj\Debug\netcoreapp3.1\firstCrud.AssemblyInfo.cs
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\firstCrud\firstCrud\obj\Debug\netcoreapp3.1\firstCrud.csproj.CoreCompileInputs.cache
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\firstCrud\firstCrud\obj\Debug\netcoreapp3.1\firstCrud.dll
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\firstCrud\firstCrud\obj\Debug\netcoreapp3.1\firstCrud.pdb
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\firstCrud\firstCrud\obj\Debug\netcoreapp3.1\firstCrud.genruntimeconfig.cache
