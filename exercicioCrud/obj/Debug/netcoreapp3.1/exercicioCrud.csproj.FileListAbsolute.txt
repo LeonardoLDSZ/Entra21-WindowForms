@@ -1,0 +1,15 @@
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\exercicioCrud\bin\Debug\netcoreapp3.1\exercicioCrud.exe
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\exercicioCrud\bin\Debug\netcoreapp3.1\exercicioCrud.deps.json
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\exercicioCrud\bin\Debug\netcoreapp3.1\exercicioCrud.runtimeconfig.json
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\exercicioCrud\bin\Debug\netcoreapp3.1\exercicioCrud.runtimeconfig.dev.json
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\exercicioCrud\bin\Debug\netcoreapp3.1\exercicioCrud.dll
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\exercicioCrud\bin\Debug\netcoreapp3.1\exercicioCrud.pdb
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\exercicioCrud\obj\Debug\netcoreapp3.1\exercicioCrud.csprojAssemblyReference.cache
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\exercicioCrud\obj\Debug\netcoreapp3.1\exercicioCrud.Form1.resources
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\exercicioCrud\obj\Debug\netcoreapp3.1\exercicioCrud.csproj.GenerateResource.cache
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\exercicioCrud\obj\Debug\netcoreapp3.1\exercicioCrud.AssemblyInfoInputs.cache
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\exercicioCrud\obj\Debug\netcoreapp3.1\exercicioCrud.AssemblyInfo.cs
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\exercicioCrud\obj\Debug\netcoreapp3.1\exercicioCrud.csproj.CoreCompileInputs.cache
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\exercicioCrud\obj\Debug\netcoreapp3.1\exercicioCrud.dll
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\exercicioCrud\obj\Debug\netcoreapp3.1\exercicioCrud.pdb
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\exercicioCrud\obj\Debug\netcoreapp3.1\exercicioCrud.genruntimeconfig.cache
