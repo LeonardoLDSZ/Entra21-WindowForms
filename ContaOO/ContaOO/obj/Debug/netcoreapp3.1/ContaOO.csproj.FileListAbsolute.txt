@@ -1,0 +1,15 @@
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\ContaOO\ContaOO\bin\Debug\netcoreapp3.1\ContaOO.exe
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\ContaOO\ContaOO\bin\Debug\netcoreapp3.1\ContaOO.deps.json
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\ContaOO\ContaOO\bin\Debug\netcoreapp3.1\ContaOO.runtimeconfig.json
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\ContaOO\ContaOO\bin\Debug\netcoreapp3.1\ContaOO.runtimeconfig.dev.json
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\ContaOO\ContaOO\bin\Debug\netcoreapp3.1\ContaOO.dll
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\ContaOO\ContaOO\bin\Debug\netcoreapp3.1\ContaOO.pdb
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\ContaOO\ContaOO\obj\Debug\netcoreapp3.1\ContaOO.csprojAssemblyReference.cache
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\ContaOO\ContaOO\obj\Debug\netcoreapp3.1\ContaOO.Form1.resources
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\ContaOO\ContaOO\obj\Debug\netcoreapp3.1\ContaOO.csproj.GenerateResource.cache
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\ContaOO\ContaOO\obj\Debug\netcoreapp3.1\ContaOO.AssemblyInfoInputs.cache
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\ContaOO\ContaOO\obj\Debug\netcoreapp3.1\ContaOO.AssemblyInfo.cs
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\ContaOO\ContaOO\obj\Debug\netcoreapp3.1\ContaOO.csproj.CoreCompileInputs.cache
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\ContaOO\ContaOO\obj\Debug\netcoreapp3.1\ContaOO.dll
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\ContaOO\ContaOO\obj\Debug\netcoreapp3.1\ContaOO.pdb
+C:\Users\Entra21\Source\Repos\Entra21-WindowsForms\ContaOO\ContaOO\obj\Debug\netcoreapp3.1\ContaOO.genruntimeconfig.cache
