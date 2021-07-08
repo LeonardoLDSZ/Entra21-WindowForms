@@ -17,6 +17,8 @@ namespace Academia.Dominio
             Rg = rg;
         }
 
+        public Pessoa() { }
+
 
     }
 }

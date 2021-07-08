@@ -12,9 +12,11 @@ namespace Academia
 {
     public partial class Form1 : Form
     {
+        private Dominio.Academia academia;
         public Form1()
         {
             InitializeComponent();
+            academia = new Dominio.Academia();
             
         }
 
@@ -25,8 +27,29 @@ namespace Academia
 
         private void btnCadastrar_Click(object sender, EventArgs e)
         {
+            academia.CadastrarAluno(new Dominio.Aluno(txtAluno.Text, maskedTextCpf.Text, 
+                maskedTextRg.Text, txtTurma.Text, checkBoxPago.Checked));
+      
+            //academia.CadastrarAluno(new Dominio.Aluno(checkBoxPago,false));
+
+
+            AtualizarLista();
+        }
+
+        private void AtualizarLista()
+        {
+            listBoxAlunos.Items.Clear();
+            foreach (var aluno in academia.Alunos)
+            {
+                listBoxAlunos.Items.Add(aluno);
+                
+            }
             
         }
-        
+
+        private void btnDeletar_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
