@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Academia", "Academia\Academia.csproj", "{2E899CB1-EADF-45C4-BBC3-4FAB1C0DE80B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Academia", "Academia\Academia.csproj", "{2E899CB1-EADF-45C4-BBC3-4FAB1C0DE80B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Classes", "..\..\Entra21Noturno-main\Entra21Noturno-main\Entra21Noturno-main\Classes\Classes\Classes.csproj", "{49E5D883-31CE-41D1-971D-DA0799DB519A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2E899CB1-EADF-45C4-BBC3-4FAB1C0DE80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E899CB1-EADF-45C4-BBC3-4FAB1C0DE80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E899CB1-EADF-45C4-BBC3-4FAB1C0DE80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49E5D883-31CE-41D1-971D-DA0799DB519A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E5D883-31CE-41D1-971D-DA0799DB519A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E5D883-31CE-41D1-971D-DA0799DB519A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E5D883-31CE-41D1-971D-DA0799DB519A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
