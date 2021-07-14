@@ -28,7 +28,7 @@ namespace Academia
         private void btnCadastrar_Click(object sender, EventArgs e)
         {
             academia.CadastrarAluno(new Dominio.Aluno(txtAluno.Text, maskedTextCpf.Text, 
-                maskedTextRg.Text, txtTurma.Text, checkBoxPago.Checked));
+                maskedTextTelefone.Text, comboBoxTurma.SelectedItem.ToString, txtPgto.Text));
       
             //academia.CadastrarAluno(new Dominio.Aluno(checkBoxPago,false));
 
@@ -49,7 +49,7 @@ namespace Academia
 
         private void btnDeletar_Click(object sender, EventArgs e)
         {
-            
+            listBoxAlunos.Items.RemoveAt(listBoxAlunos.SelectedIndex);
         }
     }
 }
