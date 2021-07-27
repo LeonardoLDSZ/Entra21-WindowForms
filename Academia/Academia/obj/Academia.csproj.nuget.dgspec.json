@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Entra21\\Source\\Repos\\Entra21-WindowsForms\\Academia\\Academia\\Academia.csproj": {}
+    "C:\\Users\\leonardo.souza\\Source\\Repos\\Entra21-WindowsForms\\Academia\\Academia\\Academia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Entra21\\Source\\Repos\\Entra21-WindowsForms\\Academia\\Academia\\Academia.csproj": {
+    "C:\\Users\\leonardo.souza\\Source\\Repos\\Entra21-WindowsForms\\Academia\\Academia\\Academia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Entra21\\Source\\Repos\\Entra21-WindowsForms\\Academia\\Academia\\Academia.csproj",
+        "projectUniqueName": "C:\\Users\\leonardo.souza\\Source\\Repos\\Entra21-WindowsForms\\Academia\\Academia\\Academia.csproj",
         "projectName": "Academia",
-        "projectPath": "C:\\Users\\Entra21\\Source\\Repos\\Entra21-WindowsForms\\Academia\\Academia\\Academia.csproj",
-        "packagesPath": "C:\\Users\\Entra21\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Entra21\\Source\\Repos\\Entra21-WindowsForms\\Academia\\Academia\\obj\\",
+        "projectPath": "C:\\Users\\leonardo.souza\\Source\\Repos\\Entra21-WindowsForms\\Academia\\Academia\\Academia.csproj",
+        "packagesPath": "C:\\Users\\leonardo.souza\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\leonardo.souza\\Source\\Repos\\Entra21-WindowsForms\\Academia\\Academia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Entra21\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\leonardo.souza\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -8,17 +8,27 @@ namespace Academia.Dominio
     {
         public String Nome { get; set; }
         public String Cpf { get; set; }
-        public String Rg { get; set; }
+        public String Telefone { get; set; }
         
-        public Pessoa (string nome, string cpf, string rg)
+        public Pessoa (string nome, string cpf, string telefone)
         {
             Nome = nome;
             Cpf = cpf;
-            Rg = rg;
+            Telefone = telefone;
         }
 
         public Pessoa() { }
 
 
     }
+
+    //namespace Classes.Dominio
+    //{
+    //    public abstract class Pessoa
+    //    {
+    //        public string Nome { get; set; }
+    //        public string Telefone { get; set; }
+    //        public string CPF { get; set; }
+    //    }
+    //}
 }
