@@ -1,12 +1,6 @@
 ﻿using ExemploEntityFramework.Dominio;
 using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace ExemploEntityFramework
@@ -27,8 +21,23 @@ namespace ExemploEntityFramework
         {
             using (var db = new AppDBContext())
             {
+                categoriaBindingSource.DataSource = db.Categorias.ToList();
                 dataGridView2.DataSource = db.Categorias.ToList();
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var categoria1 = new Categoria();
+            if (sender == button1)
+            {
+                categoriaBindingSource.Add(categoria1);
+                categoriaBindingSource.MoveLast();
+
+            }
+
+            //if (categoriaBindingSource.Current == null) return;
+            //using (var form = new FormCategoria(categoriaBindingSource.Current as Categoria));
         }
     }
 }

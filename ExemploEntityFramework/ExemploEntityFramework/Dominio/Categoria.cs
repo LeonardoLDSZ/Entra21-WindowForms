@@ -11,7 +11,7 @@ namespace ExemploEntityFramework.Dominio
     {
         [Key]  //chave primaria da tabela
         public int Id { get; set; }
-        [MaxLength(100)]
+        [MaxLength(100)] //número máximo de caracter
         public string Nome { get; set; }
     }
 }
