@@ -12,14 +12,17 @@ namespace ExemploEntityFramework.Dominio
 {
     public partial class FormCategoria : Form
     {
-        public FormCategoria()
+        Categoria categoria1;
+        public FormCategoria(Categoria categoria)
         {
             InitializeComponent();
+            categoria1 = categoria;
         }
 
         private void FormCategoria_Load(object sender, EventArgs e)
         {
-
+            textBox1.DataBindings.Add("Text", categoria1, "Id");
+            textBox2.DataBindings.Add("Text", categoria1, "Nome");
         }
     }
 }

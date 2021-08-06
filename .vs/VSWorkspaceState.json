@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Academia"
+    "\\Academia",
+    "\\ExemploEntityFramework",
+    "\\exercicioCrud"
   ],
-  "SelectedNode": "\\Academia\\Academia.sln",
+  "SelectedNode": "\\ExemploEntityFramework\\ExemploEntityFramework.sln",
   "PreviewInSolutionExplorer": false
 }
